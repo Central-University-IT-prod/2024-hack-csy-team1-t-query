@@ -1,0 +1,6 @@
+.venv
+__pycache__
+setenv.sh
+console.txt
+db.sqlite3
+.DS_Store
